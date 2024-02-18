@@ -1,0 +1,2 @@
+# hashmap
+This is the hashmap project of "The Odin Project" Course
